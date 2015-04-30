@@ -1,0 +1,6 @@
+{
+  "name": "arboreal",
+  "description": "Javascript tree traversal and manipulation library",
+  "version": "0.0.1",
+  "main": "lib/arboreal.js"
+}
